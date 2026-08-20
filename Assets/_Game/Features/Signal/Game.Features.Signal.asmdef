@@ -1,0 +1,16 @@
+{
+  "name": "Game.Features.Signal",
+  "rootNamespace": "Game.Features.Signal",
+  "references": [
+    "GUID:16c706a6847da47aaa06fa553dbede51"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

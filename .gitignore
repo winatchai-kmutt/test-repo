@@ -1,0 +1,26 @@
+# Unity-generated caches and local editor state.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Tt]est[Rr]esults/
+
+# Build output is reproducible and never source-controlled.
+/[Bb]uild/
+/[Bb]uilds/
+
+# IDE-generated project files. The curated .vscode workspace config is tracked.
+/.vs/
+/*.csproj
+/*.sln
+/*.slnx
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+
+# Operating-system noise.
+.DS_Store

@@ -1,0 +1,21 @@
+{
+  "name": "Game.Tests.PlayMode",
+  "rootNamespace": "Game.Tests.PlayMode",
+  "references": [
+    "GUID:f6dd01a8a595d4349827d59c5820600d",
+    "GUID:ad3ab774d832847a3a5fd2c19064fa52",
+    "GUID:a46d96397c4c94f258ee2f3b1dbcc75c",
+    "Unity.InputSystem",
+    "Unity.InputSystem.TestFramework"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": ["TestAssemblies"]
+}

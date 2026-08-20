@@ -1,0 +1,36 @@
+{
+    "version": 1,
+    "name": "ValidationInputActions",
+    "maps": [
+        {
+            "name": "Lab",
+            "id": "e28e19ae-3c3e-49d3-8ef2-895eb09108df",
+            "actions": [
+                {
+                    "name": "Toggle",
+                    "type": "Button",
+                    "id": "0238535e-6754-4605-b638-af801973a652",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "37d1f526-0e9c-4013-9e46-e503934d54d4",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Toggle",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
